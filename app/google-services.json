@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398849632076",
+    "project_id": "msgme-c8cef",
+    "storage_bucket": "msgme-c8cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398849632076:android:c639c6f88a7b6a7c2ed1e9",
+        "android_client_info": {
+          "package_name": "com.example.msgme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398849632076-a6pm08c746hvniel1ps3v1a0f8no21nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnDo7UtJMoIT-3F8sJlOWtTsnfvWDO74Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398849632076-a6pm08c746hvniel1ps3v1a0f8no21nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
